@@ -1,0 +1,30 @@
+1. How to run the program
+
+2. Menu
+
+3. Update
+
+4. Question 1
+
+5. Question 2
+
+6. Question 3
+
+7. Question 4
+
+8. Exit/Edge cases concerning questions (showing code)
+
+9. Promote client use
+
+For the question:
+
+- Question itself and why
+
+- File(s) used
+
+- Running thru the user prompts for the main question
+
+- Talking about parameters that can be modified
+
+- Output (background database) to pdf call Q*.pdf
+

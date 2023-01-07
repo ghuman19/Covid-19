@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "s01-week10"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+seaborn = "^0.11.2"
+pyfiglet = "^0.8.post1"
+PyInquirer = "^1.0.3"
+termcolor = "^1.1.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
